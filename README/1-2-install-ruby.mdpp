@@ -1,0 +1,5 @@
+### 1.2 Install Ruby.
+
+![Ruby](/README/images/1-2-ruby-logo.png)
+
+!INCLUDE "./1-2-install-ruby/*.md"
