@@ -341,3 +341,59 @@ Check executable paths after restart the iTerm.
 echo $PATH
 ▶ /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 ```
+
+### 1.3 RubyGems & Install Rails.
+
+**RubyGems.**
+
+![RubyGems](/README/images/1-3-rubygems-logo.png)
+
+Check the `Gem` version.
+```
+gem -v
+▶ 3.1.0.pre1
+```
+
+Update the `Gem` version.
+```
+gem update --system
+▶ Latest version already installed. Done.
+```
+
+Display the gem dependencies on your computer.
+```
+gem list
+```
+
+
+Update the gem dependencies.
+```
+gem update
+```
+
+Find and remove the old gem dependencies.
+```
+gem cleanup
+```
+**Install Rails.**
+
+![Rails](/README/images/1-3-rails-logo.png)
+
+Install the `Rails` using the `Gem`.
+```
+gem install rails -v 6.0.0.beta3
+```
+
+Make sure the `Rails` has been installed<br>
+by checking the `Rails`'s version.
+```
+rails -v
+▶ Rails 6.0.0.beta3
+```
+**Uninstall Rails.**
+
+Completely uninstall `Rails`.
+```
+gem uninstall rails -v 6.0.0.beta3
+gem uninstall railties -v 6.0.0.beta3
+```
