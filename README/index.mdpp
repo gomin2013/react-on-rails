@@ -3,3 +3,7 @@
 # React on Rails
 
 Integration of React (a JavaScript library) on Rails (a Ruby framework).
+
+## 1 Setting up.
+
+!INCLUDE "README/1-1-install-homebrew.md"

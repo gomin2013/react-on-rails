@@ -1,11 +1,3 @@
-![Rails + React + Webpack](/README/images/index.png)
-
-# React on Rails
-
-Integration of React (a JavaScript library) on Rails (a Ruby framework).
-
-## 1 Setting up.
-
 ### 1.1 Install Homebrew.
 
 ![Homebrew](/README/images/1-1-homebrew-logo.png)
