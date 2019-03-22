@@ -13,3 +13,5 @@ Integration of React (a JavaScript library) on Rails (a Ruby framework).
 !INCLUDE "README/1-3-rubygems-and-install-rails.mdpp"
 
 !INCLUDE "README/1-4-install-yarn.md"
+
+!INCLUDE "README/1-5-generate-a-rails-application.md"
