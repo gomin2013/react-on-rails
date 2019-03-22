@@ -1,0 +1,5 @@
+### 1.6 Setup Docker.
+
+![Setup Docker](/README/images/1-6-setup-docker.png)
+
+!INCLUDE "./1-6-setup-docker/*.md"
